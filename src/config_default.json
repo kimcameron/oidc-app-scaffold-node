@@ -1,0 +1,6 @@
+{
+	"hostname": "virtual.itsourweb.org",
+	"https_certificate_filename": "../keys/itsourweb_wildcard",
+	"client_api_url": null,
+	"smart_credential_prefix": "https://did.itsourweb.org:3000/smart-credential"
+}
